@@ -1,0 +1,10 @@
+C:\Users\isikl\source\repos\RDR2\RDR2\bin\Debug\RDR2.exe.config
+C:\Users\isikl\source\repos\RDR2\RDR2\bin\Debug\RDR2.exe
+C:\Users\isikl\source\repos\RDR2\RDR2\bin\Debug\RDR2.pdb
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.csproj.AssemblyReference.cache
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.Form1.resources
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.Properties.Resources.resources
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.csproj.GenerateResource.cache
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.csproj.CoreCompileInputs.cache
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.exe
+C:\Users\isikl\source\repos\RDR2\RDR2\obj\Debug\RDR2.pdb
